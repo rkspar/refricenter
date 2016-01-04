@@ -17,7 +17,7 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #f5f5f5;
+  background-color: #ffffff;
 }
 .bg-dark {
   color: white;
@@ -46,7 +46,7 @@ input.form-control:focus {
   transition: all 0.5s;
 }
 .btn-primary {
-  color: #ffffff;
+  color: #0031A5;
   background-color: #0a8fd5;
   border-color: #0a8fd5;
   -webkit-transition: all 0.5s;
@@ -59,7 +59,7 @@ input.form-control:focus {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-  color: #ffffff;
+  color: #0031A5;
   background-color: #097fbd;
   border-color: #0878b3;
 }
@@ -329,7 +329,7 @@ header .scroll-down .btn:hover {
     background-attachment: scroll;
   }
   header .intro-content {
-    color: white;
+    color: #0031A5;
     text-align: center;
     width: 50%;
     margin: auto;
@@ -615,7 +615,7 @@ aside.cta-quote span.quote {
 }
 .portfolio-carousel {
   padding: 0;
-  color: white;
+  color: #000000;
   background-color: #222222;
 }
 .portfolio-carousel .item {
@@ -723,7 +723,7 @@ aside.cta-quote span.quote {
   display: none;
 }
 .portfolio-modal .modal-content {
-  color: white;
+  color: #000;
   background: transparent;
   border-radius: 0;
   background-clip: border-box;
